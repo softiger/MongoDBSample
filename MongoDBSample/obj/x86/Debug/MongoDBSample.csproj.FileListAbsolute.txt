@@ -1,0 +1,11 @@
+C:\VSS\WinApp\MongoDBSample\MongoDBSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VSS\WinApp\MongoDBSample\MongoDBSample\bin\Debug\MongoDBSample.exe
+C:\VSS\WinApp\MongoDBSample\MongoDBSample\bin\Debug\MongoDBSample.pdb
+C:\VSS\WinApp\MongoDBSample\MongoDBSample\bin\Debug\MongoDB.Bson.dll
+C:\VSS\WinApp\MongoDBSample\MongoDBSample\bin\Debug\MongoDB.Driver.dll
+C:\VSS\WinApp\MongoDBSample\MongoDBSample\bin\Debug\MongoDB.Bson.pdb
+C:\VSS\WinApp\MongoDBSample\MongoDBSample\bin\Debug\MongoDB.Bson.xml
+C:\VSS\WinApp\MongoDBSample\MongoDBSample\bin\Debug\MongoDB.Driver.pdb
+C:\VSS\WinApp\MongoDBSample\MongoDBSample\bin\Debug\MongoDB.Driver.xml
+C:\VSS\WinApp\MongoDBSample\MongoDBSample\obj\x86\Debug\MongoDBSample.exe
+C:\VSS\WinApp\MongoDBSample\MongoDBSample\obj\x86\Debug\MongoDBSample.pdb
